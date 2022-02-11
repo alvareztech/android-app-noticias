@@ -4,7 +4,7 @@ A small example of android application that has a video and tutorial to build it
 
 ## Step-by-step tutorial and video
 
-[alvarez.tech/labs/android-app-noticias](https://alvarez.tech/labs/android-app-noticias)
+[alvarez.tech/android-app-noticias-asynctask](https://alvarez.tech/android-app-noticias-asynctask)
 
 ## Screenshots
 
