@@ -1,4 +1,4 @@
-# Noticias Android Application
+# Noticias Android App
 
 A small example of android application that has a video and tutorial to build it step by step.
 
